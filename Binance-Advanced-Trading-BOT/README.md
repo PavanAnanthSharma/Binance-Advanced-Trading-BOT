@@ -1,4 +1,4 @@
-# Binance trading BOT using Python ; 
+# Binance trading BOT using Python 
 ```shell
 edited by: Pavan Ananth Sharma
 ```
@@ -131,14 +131,6 @@ remember to install [pre-commit](https://pre-commit.com/):
 pip install pre-commit
 pre-commit install
 ```
-## FAQ
-
-A list of answers to what seem to be the most frequently asked questions can be found in our discord server, in the corresponding channel.
-
-<p align="center">
-  <img src = "https://usercontent2.hubstatic.com/6061829.jpg">
-</p>
-
 ## Disclaimer
 
 This project is for informational purposes only. You should not construe any
